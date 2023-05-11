@@ -1,13 +1,11 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.font-style {
-	font-family: 'Staatliches', cursive;
-}
+#bg-style{
+    background-color: #B0CDE1;
+    font-family: 'Playfair Display', serif;
 
-#background-sail {
-	background-color: #EFEBDD;
 }
